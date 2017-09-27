@@ -1,0 +1,21 @@
+{
+    "name": "paypal-express-checkout",
+    "version": "1.6.1",
+    "description": "node.js paypal express checkout",
+    "main": "./index.js",
+    "engines": {
+        "node": ">=0.8.x"
+    },
+    "readmeFilename": "readme.md",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Developer-Amit/paypal-express-checkout-nodejs.git"
+    },
+    "author": {
+        "name": "Amit Mishra"
+    },
+}
